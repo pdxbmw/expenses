@@ -3,9 +3,9 @@ const dedent = require('dedent');
 
 const Google = {
 
-  APP_ID: '458068616991',
-  API_KEY: 'AIzaSyC_VoI-DTpb2upuuEJrW5pi9q2XlXD5vOc',
-  CLIENT_ID: '458068616991-oj59v0rmmkdag318pr2cbolossiup1vs.apps.googleusercontent.com',
+  APP_ID: '',
+  API_KEY: '',
+  CLIENT_ID: '',
   SCOPES: ['https://www.googleapis.com/auth/drive'],
   DRIVE_UPLOAD_URL: 'https://www.googleapis.com/upload/drive/v3/files?uploadType=multipart',
   SPREADSHEET_GET_URL: 'https://spreadsheets.google.com/feeds/list/1Ez_QexxBY18Dv4MEYdfvSs4e07zScFtjl5lzL7TTOf4/on4lgei/public/values?alt=json',
